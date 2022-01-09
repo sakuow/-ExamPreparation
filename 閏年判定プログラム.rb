@@ -11,3 +11,4 @@ end
 uruu(1900)
 uruu(650)
 uruu(777)
+uruu(2012)
