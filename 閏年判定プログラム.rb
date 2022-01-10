@@ -12,3 +12,14 @@ uruu(1900)
 uruu(650)
 uruu(777)
 uruu(2012)
+
+
+
+def uru(n)
+  if n % 4 == 0
+    puts 'うるうどし366日'
+  else
+    puts '平年365日'
+  end
+end
+
