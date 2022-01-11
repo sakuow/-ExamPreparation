@@ -13,8 +13,6 @@ uruu(650)
 uruu(777)
 uruu(2012)
 
-
-
 def uru(n)
   if n % 4 == 0
     puts 'うるうどし366日'
