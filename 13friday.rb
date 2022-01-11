@@ -25,6 +25,7 @@ year = gets.to_i
 for month in 1..12
     if getDayOfWeek(year, month, 13) == 6
         print "#{month}/13\t"
+        
     end
 end
 puts
